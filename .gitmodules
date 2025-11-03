@@ -1,0 +1,6 @@
+[submodule "Gap-Aid"]
+	path = Gap-Aid
+	url = https://github.com/panlab-bioinfo/Gap-Aid
+[submodule "Gap-graph"]
+	path = Gap-graph
+	url = https://github.com/panlab-bioinfo/Gap-graph
